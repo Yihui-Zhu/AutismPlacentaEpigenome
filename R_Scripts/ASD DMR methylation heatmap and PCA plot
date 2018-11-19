@@ -1,4 +1,4 @@
-## ASD DMR methylation and PCA plot
+## ASD DMR methylation heatmap and PCA plot
 # Packages ####
 library(ggdendro)
 library(ggplot2)
