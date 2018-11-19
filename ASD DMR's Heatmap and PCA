@@ -1,0 +1,16 @@
+## ASD DMR methylation and PCA plot
+# Packages ####
+library(ggdendro)
+library(ggplot2)
+library(reshape2)
+library(grid)
+library(scales)
+library(plyr)
+library(reshape)
+library(ggbiplot)
+library(ggplot2)
+library(extrafont)
+
+
+
+
