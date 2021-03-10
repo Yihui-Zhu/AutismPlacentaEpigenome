@@ -6,3 +6,5 @@ DNA methylation acts at the interface of genetic and environmental factors relev
 
 ## Citation
 Zhu, Y., Mordaunt, C. E., Yasui, D. H., Marathe, R., Coulson, R. L., Dunaway, K. W., ... & Schmidt, R. J. (2019). Placental DNA methylation levels at CYP2E1 and IRS2 are associated with child outcome in a prospective autism study. Human molecular genetics, 28(16), 2659-2674.
+
+Full manuscript is published at Human Molecular Genetics at https://academic.oup.com/hmg/article/28/16/2659/5476403
